@@ -1,0 +1,17 @@
+dev/shanku/productservices/advices/ControllerAdvice.class
+dev/shanku/productservices/projections/ProductProjection.class
+dev/shanku/productservices/services/FakeStoreProductService.class
+dev/shanku/productservices/services/ProductService.class
+dev/shanku/productservices/ProductServicesApplication.class
+dev/shanku/productservices/services/SelfProductService.class
+dev/shanku/productservices/configs/RestTemplateConfig.class
+dev/shanku/productservices/repositories/CategoryRepository.class
+dev/shanku/productservices/models/Category.class
+dev/shanku/productservices/models/Product.class
+dev/shanku/productservices/dtos/FakeStoreProductDto.class
+dev/shanku/productservices/models/BaseModel.class
+dev/shanku/productservices/exceptions/ProductNotFoundException.class
+dev/shanku/productservices/dtos/ErrorDto.class
+dev/shanku/productservices/controllers/ProductController.class
+dev/shanku/productservices/repositories/ProductRepository.class
+dev/shanku/productservices/dtos/CreateProductRequestDto.class

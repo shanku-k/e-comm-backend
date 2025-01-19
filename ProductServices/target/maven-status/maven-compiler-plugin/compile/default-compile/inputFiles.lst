@@ -1,0 +1,17 @@
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/ProductServicesApplication.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/advices/ControllerAdvice.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/configs/RestTemplateConfig.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/controllers/ProductController.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/dtos/CreateProductRequestDto.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/dtos/ErrorDto.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/dtos/FakeStoreProductDto.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/exceptions/ProductNotFoundException.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/models/BaseModel.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/models/Category.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/models/Product.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/projections/ProductProjection.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/repositories/CategoryRepository.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/repositories/ProductRepository.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/services/FakeStoreProductService.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/services/ProductService.java
+/Users/shankukatre/IdeaProjects/ProductServices/src/main/java/dev/shanku/productservices/services/SelfProductService.java
